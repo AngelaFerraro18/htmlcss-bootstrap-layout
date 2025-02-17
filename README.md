@@ -1,0 +1,3 @@
+# Bootstrap: introduzione
+
+L'esercitazione di oggi consiste nel riprodurre un layout assegnato, andando ad integrare il framework introdotto nella lezione di oggi: Bootstrap! Dovremo applicare le varie classi disponibili a seconda delle richieste per la realizzazione dei layout, che avranno un diverso aspetto a seconda della grandezza dello schermo su cui verrà visualizzato: mobile, tablet e desktop. 
